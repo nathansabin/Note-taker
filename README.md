@@ -23,11 +23,12 @@
   ## Installation
   
   Go to this link:
+    https://note-taker-nathansabin.herokuapp.com
 
   See it on Github:
     https://github.com/nathansabin/Note-taker
 
-  ![webpage](./Develop/webpage.jpg)
+  ![webpage](./webpage.jpg)
 
   ## Usage
 
