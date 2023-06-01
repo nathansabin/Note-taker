@@ -6,7 +6,7 @@ var noteData = require("./db/db.json");
 
 // sets express and port 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 // stage files and formatting  
 app.use(express.static("public"));
